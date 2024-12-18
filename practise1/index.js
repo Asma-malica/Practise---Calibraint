@@ -1,0 +1,6 @@
+// const ans = require("./app")
+// console.log("local module")
+// const tot = ans.add(5,10)
+// console.log(tot)
+// const diff = ans.sub(5,10)
+// console.log(diff)
